@@ -4,7 +4,7 @@
   "height": 400,
   "title": "Birth Rate against Life Expectancy",
   "data": {
-    "url": "https://raw.githubusercontent.com/raidishahrom/FIT3179/main/world-data-2023.csv"
+    "url": "https://raw.githubusercontent.com/raidishahrom/3179Hw10/main/world-data-2023.csv"
   },
   "transform": [{"filter": {"selection": "countrySelector", "oneOf": ["All"]}}],
   "selection": {
