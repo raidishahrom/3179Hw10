@@ -17,7 +17,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/raidishahrom/FIT3179/main/world-data-2023.csv"
+              "url": "https://raw.githubusercontent.com/raidishahrom/3179Hw10/main/world-data-2023.csv"
             },
             "key": "Country",
             "fields": ["Birth Rate"]
